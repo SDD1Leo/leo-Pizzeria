@@ -44,6 +44,11 @@
     margin: 0px 0px;
     padding: 10px 20px;
     font-size: 18px;
+    text-align: justify;
+}
+
+#about::before{
+    height: 800px
 }
 
 #contact{
@@ -52,4 +57,10 @@
 
 #cont-box form{
     width: 60%;
+}
+#cont-box .submit{
+    position: relative;
+    left: 75px;
+    margin-top: 20px;
+    width: 45%;
 }
