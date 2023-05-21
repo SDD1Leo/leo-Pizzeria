@@ -203,6 +203,13 @@ html{
     font-family: 'Wix Madefor Display', sans-serif;
 }
 
+#cont-box .submit{
+    position: relative;
+    left: 192px;
+    margin-top: 20px;
+    width: 40%;
+}
+
 #contact::before {
     content: "";
     background: url('../img/bg5.jpg') no-repeat center center/cover;
